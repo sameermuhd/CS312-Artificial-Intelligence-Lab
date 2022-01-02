@@ -1,0 +1,30 @@
+Algorithm: HC
+Heuristic: 1
+
+----Goal State----
+Stack1:
+Label: 1 StackNo: 1 BlockNo: 0 SittingOn: -1
+Stack2:
+Label: 4 StackNo: 2 BlockNo: 3 SittingOn: 6
+Label: 6 StackNo: 2 BlockNo: 2 SittingOn: 2
+Label: 2 StackNo: 2 BlockNo: 1 SittingOn: 5
+Label: 5 StackNo: 2 BlockNo: 0 SittingOn: -1
+Stack3:
+Label: 3 StackNo: 3 BlockNo: 0 SittingOn: -1
+hValue: 18
+
+----Final State----
+Stack1:
+Label: 6 StackNo: 1 BlockNo: 4 SittingOn: 2
+Label: 2 StackNo: 1 BlockNo: 3 SittingOn: 4
+Label: 4 StackNo: 1 BlockNo: 2 SittingOn: 5
+Label: 5 StackNo: 1 BlockNo: 1 SittingOn: 1
+Label: 1 StackNo: 1 BlockNo: 0 SittingOn: -1
+Stack2:
+Stack3:
+Label: 3 StackNo: 3 BlockNo: 0 SittingOn: -1
+hValue: 7
+
+Is goal state reached?: No
+No of States Explored: 1
+Time Taken: 0.0019865036010742188 seconds
