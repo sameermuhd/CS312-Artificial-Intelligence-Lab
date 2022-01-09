@@ -1,0 +1,77 @@
+Number of Variables: 4
+Number of Clauses: 5
+
+---------Clauses---------
+[['b', 'C', 'D'],
+ ['A', 'B', 'C'],
+ ['B', 'C', 'D'],
+ ['a', 'b', 'c'],
+ ['a', 'b', 'C']]
+
+------Initial State-------
+{'A': 1, 'a': 0, 'B': 1, 'b': 0, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 4
+
+**********************************************************************************
+
+******** VND Stared ********
+Final State: 
+{'A': 0, 'a': 1, 'B': 1, 'b': 0, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+**********************************************************************************
+
+****** TabuSearch Stared ******
+
+Tabu Tenure: 0
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+Tabu Tenure: 1
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+Tabu Tenure: 2
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+Tabu Tenure: 3
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+**********************************************************************************
+
+****** BeamSearch Stared ******
+
+Beam Width: 1
+Final State: 
+{'A': 0, 'a': 1, 'B': 1, 'b': 0, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 2
+
+Beam Width: 2
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 3
+
+Beam Width: 3
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 4
+
+Beam Width: 4
+Final State: 
+{'A': 1, 'a': 0, 'B': 0, 'b': 1, 'C': 1, 'c': 0, 'D': 1, 'd': 0}
+Heuristic Value: 5
+Number Of States Explored: 5
