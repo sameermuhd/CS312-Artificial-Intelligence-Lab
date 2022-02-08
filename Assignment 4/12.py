@@ -13,8 +13,8 @@ random.seed(13)
 #Ant Object Definition
 class Ant(object):
 	def __init__(self, cityDistances):
-		self.tour = []								#Ant's tour		
-		self.tourCost = float('Inf')				#Ant's tour cost
+		self.tour = []			#Ant's tour		
+		self.tourCost = float('Inf')	#Ant's tour cost
 
 
 #==============================================================================================#
@@ -22,17 +22,17 @@ class Ant(object):
 def generateTour(ant, cityDistances, alpha, beta, pathPheromone):
 	numOfCities = len(cityDistances)
 
-	startCity = random.randint(0, numOfCities-1)				#Select a random start city
+	startCity = random.randint(0, numOfCities-1)			#Select a random start city
 	notVisitedCities = [city for city in range(numOfCities)]	#Keeps track of cities not visited
 	notVisitedCities.remove(startCity)
 	ant.tour.append(startCity)
 	ant.tourCost = 0
 
-	while(len(ant.tour) != numOfCities):						#Finding cities untill we get a complete tour
+	while(len(ant.tour) != numOfCities):				#Finding cities untill we get a complete tour
 		currentCity = ant.tour[-1]
 		allProbabilities = []
 		
-		for nextCity in notVisitedCities:						#Finding propabilities of selecting a city
+		for nextCity in notVisitedCities:			#Finding propabilities of selecting a city
 			allProbabilities.append(pathPheromone[currentCity][nextCity]**alpha * (1/cityDistances[currentCity][nextCity])**beta)
 		
 		sumProbabilities = sum(allProbabilities)
@@ -40,12 +40,12 @@ def generateTour(ant, cityDistances, alpha, beta, pathPheromone):
 		
 		for x in allProbabilities:
 			weights.append(x / sumProbabilities)
-																#Choosing a not visited city based on probability
+									#Choosing a not visited city based on probability
 		nextCity = random.choices(notVisitedCities, weights=weights)
 		nextCity = nextCity[0]
 
-		ant.tour.append(nextCity)								#Updating tour
-		notVisitedCities.remove(nextCity)						#Updating list of not visited cities
+		ant.tour.append(nextCity)				#Updating tour
+		notVisitedCities.remove(nextCity)			#Updating list of not visited cities
 		ant.tourCost += cityDistances[currentCity][nextCity]	#Updating tour cost
 
 	currentCity = nextCity
@@ -56,19 +56,19 @@ def generateTour(ant, cityDistances, alpha, beta, pathPheromone):
 #Ant Colony Optimization
 def ACO(cityDistances, alpha, beta, rho, Qvalue, numOfAnts):
 	numOfCities = len(cityDistances)			#Keeps track of number of cities
-	convergenceRate = int(0.1 * numOfCities)	#Convergence rate keeps track of how many best ants to consider
-												#Keeps track of path peromones
+	convergenceRate = int(0.1 * numOfCities)		#Convergence rate keeps track of how many best ants to consider
+								#Keeps track of path peromones
 	pathPheromone = [[Qvalue for _ in range(numOfCities)] for _ in range(numOfCities)]
-	bestTour = []								#Best tour so far
-	bestTourCost = float('Inf')					#Best tour cost
+	bestTour = []						#Best tour so far
+	bestTourCost = float('Inf')				#Best tour cost
 
-	global startTime							#Keeps track of start time
+	global startTime					#Keeps track of start time
 
 	while True:
 		#print("Current time:", time.time() - startTime, "sec")
-		ants = []								#List of all ants
+		ants = []					#List of all ants
 
-		for _ in range(numOfAnts):				#Initializing all ants
+		for _ in range(numOfAnts):			#Initializing all ants
 			ant = Ant(cityDistances)
 			generateTour(ant, cityDistances, alpha, beta, pathPheromone)	#Generating tour of ant
 			ants.append(ant)
@@ -82,7 +82,7 @@ def ACO(cityDistances, alpha, beta, rho, Qvalue, numOfAnts):
 				print("Tour Cost: ", bestTourCost)
 				print("Time Taken:", time.time() - startTime, "sec")
 
-												#Keeps track of pheromone delta 
+								#Keeps track of pheromone delta 
 		deltaPheromones = [[0 for _ in range(numOfCities)] for _ in range(numOfCities)]
 
 		ants.sort(key=lambda x: x.tourCost)		#Sorting all choosing best ants
@@ -109,7 +109,7 @@ if(n != 2):
     print("Usage: python3 <code>.py <inputfile>")
     sys.exit()
 
-try:									#Opening file
+try:					#Opening file
     inFile = open(sys.argv[1], "r")
 except IOError:
     print("File not found")
@@ -123,15 +123,15 @@ numOfCities = int(data[1])
 cityCoords = []
 cityDistances = []
 
-for i in range(numOfCities):			#Reading city coordinates
+for i in range(numOfCities):		#Reading city coordinates
 	coords = list(map(float, data[i+2].split()))
 	cityCoords.append(coords)
 
-for i in range(numOfCities):			#Reading city distances
+for i in range(numOfCities):		#Reading city distances
 	dist = list(map(float, data[i+numOfCities+2].split()))
 	cityDistances.append(dist)
 
-										#Running ACO
+					#Running ACO
 if numOfCities <= 100:
 	ACO(cityDistances, alpha=10, beta=10, rho=0.1, Qvalue=0.1, numOfAnts=numOfCities)
 else:
