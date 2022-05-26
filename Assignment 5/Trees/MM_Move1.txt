@@ -1,0 +1,21 @@
+[START] Root ID: 88443
+
+[START Explore children of MOVE (7, 0)  by RED at Depth 3, nodeID: 88444, parentID: 88443]
+
+[START Explore children of MOVE (0, 0)  by BLACK at Depth 2, nodeID: 88445, parentID: 88444]
+
+[START Explore children of MOVE (5, 0)  by RED at Depth 1, nodeID: 88446, parentID: 88445]
+
+[END Explore children of MOVE (5, 0)  by RED at Depth 1, nodeID: 88447, parentID: 88445, Eval: -245980, bestEval: -245980]
+
+[END Explore children of MOVE (0, 0)  by BLACK at Depth 2, nodeID: 88447, parentID: 88444, Eval: -245980, bestEval: -245980]
+
+[START Explore children of MOVE (5, 0)  by BLACK at Depth 2, nodeID: 88447, parentID: 88444]
+
+[START Explore children of MOVE (2, 0)  by RED at Depth 1, nodeID: 88448, parentID: 88447]
+
+[END Explore children of MOVE (2, 0)  by RED at Depth 1, nodeID: 88449, parentID: 88447, Eval: -326400, bestEval: -326400]
+
+[END Explore children of MOVE (5, 0)  by BLACK at Depth 2, nodeID: 88449, parentID: 88444, Eval: -326400, bestEval: -326400]
+
+[END Explore children of MOVE (7, 0)  by RED at Depth 3, nodeID: 88449, parentID: 88443, Eval: -326400, bestEval: -326400]

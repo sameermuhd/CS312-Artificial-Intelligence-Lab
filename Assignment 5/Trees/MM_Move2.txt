@@ -1,0 +1,1250 @@
+[START] Root ID: 101
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 3, nodeID: 102, parentID: 101]
+
+[START Explore children of MOVE (1, 2)  by BLACK at Depth 2, nodeID: 103, parentID: 102]
+
+[START Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 104, parentID: 103]
+
+[END Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 105, parentID: 103, Eval: -2220, bestEval: -2220]
+
+[START Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 105, parentID: 103]
+
+[END Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 106, parentID: 103, Eval: -2280, bestEval: -2220]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 106, parentID: 103]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 107, parentID: 103, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 107, parentID: 103]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 108, parentID: 103, Eval: -2040, bestEval: -1890]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 108, parentID: 103]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 109, parentID: 103, Eval: -2250, bestEval: -1890]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 109, parentID: 103]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 110, parentID: 103, Eval: -2250, bestEval: -1890]
+
+[END Explore children of MOVE (1, 2)  by BLACK at Depth 2, nodeID: 110, parentID: 102, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 110, parentID: 102]
+
+[START Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 111, parentID: 110]
+
+[END Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 112, parentID: 110, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 112, parentID: 110]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 113, parentID: 110, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 113, parentID: 110]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 114, parentID: 110, Eval: -2250, bestEval: -2010]
+
+[END Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 114, parentID: 102, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (3, 2)  by BLACK at Depth 2, nodeID: 114, parentID: 102]
+
+[START Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 115, parentID: 114]
+
+[END Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 116, parentID: 114, Eval: -2910, bestEval: -2910]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 116, parentID: 114]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 117, parentID: 114, Eval: -2430, bestEval: -2430]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 117, parentID: 114]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 118, parentID: 114, Eval: -2970, bestEval: -2430]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 118, parentID: 114]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 119, parentID: 114, Eval: -2370, bestEval: -2370]
+
+[END Explore children of MOVE (3, 2)  by BLACK at Depth 2, nodeID: 119, parentID: 102, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 119, parentID: 102]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 120, parentID: 119]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 121, parentID: 119, Eval: -2430, bestEval: -2430]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 121, parentID: 119]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 122, parentID: 119, Eval: -2100, bestEval: -2100]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 122, parentID: 119]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 123, parentID: 119, Eval: -2070, bestEval: -2070]
+
+[END Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 123, parentID: 102, Eval: -2070, bestEval: -2370]
+
+[START Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 123, parentID: 102]
+
+[START Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 124, parentID: 123]
+
+[END Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 125, parentID: 123, Eval: -2310, bestEval: -2310]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 125, parentID: 123]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 126, parentID: 123, Eval: -2370, bestEval: -2310]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 126, parentID: 123]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 127, parentID: 123, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 127, parentID: 123]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 128, parentID: 123, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 128, parentID: 123]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 129, parentID: 123, Eval: -2160, bestEval: -1920]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 129, parentID: 123]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 130, parentID: 123, Eval: -2280, bestEval: -1920]
+
+[END Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 130, parentID: 102, Eval: -1920, bestEval: -2370]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 3, nodeID: 130, parentID: 101, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 3, nodeID: 130, parentID: 101]
+
+[START Explore children of MOVE (2, 6)  by BLACK at Depth 2, nodeID: 131, parentID: 130]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 132, parentID: 131]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 133, parentID: 131, Eval: -2340, bestEval: -2340]
+
+[START Explore children of MOVE (1, 6)  by RED at Depth 1, nodeID: 133, parentID: 131]
+
+[END Explore children of MOVE (1, 6)  by RED at Depth 1, nodeID: 134, parentID: 131, Eval: -1830, bestEval: -1830]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 134, parentID: 131]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 135, parentID: 131, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 135, parentID: 131]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 136, parentID: 131, Eval: -1740, bestEval: -1650]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 136, parentID: 131]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 137, parentID: 131, Eval: -2250, bestEval: -1650]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 137, parentID: 131]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 138, parentID: 131, Eval: -2250, bestEval: -1650]
+
+[END Explore children of MOVE (2, 6)  by BLACK at Depth 2, nodeID: 138, parentID: 130, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 138, parentID: 130]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 139, parentID: 138]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 140, parentID: 138, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 140, parentID: 138]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 141, parentID: 138, Eval: -2730, bestEval: -2730]
+
+[END Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 141, parentID: 130, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 141, parentID: 130]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 142, parentID: 141]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 143, parentID: 141, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 143, parentID: 141]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 144, parentID: 141, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 144, parentID: 141]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 145, parentID: 141, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 145, parentID: 141]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 146, parentID: 141, Eval: -1980, bestEval: -1920]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 146, parentID: 141]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 147, parentID: 141, Eval: -2400, bestEval: -1920]
+
+[END Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 147, parentID: 130, Eval: -1920, bestEval: -2730]
+
+[START Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 147, parentID: 130]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 148, parentID: 147]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 149, parentID: 147, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 149, parentID: 147]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 150, parentID: 147, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 150, parentID: 147]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 151, parentID: 147, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 151, parentID: 147]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 152, parentID: 147, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 152, parentID: 147]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 153, parentID: 147, Eval: -2280, bestEval: -1980]
+
+[END Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 153, parentID: 130, Eval: -1980, bestEval: -2730]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 3, nodeID: 153, parentID: 101, Eval: -2730, bestEval: -2370]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 3, nodeID: 153, parentID: 101]
+
+[START Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 154, parentID: 153]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 155, parentID: 154]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 156, parentID: 154, Eval: -2490, bestEval: -2490]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 156, parentID: 154]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 157, parentID: 154, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 157, parentID: 154]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 158, parentID: 154, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 158, parentID: 154]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 159, parentID: 154, Eval: -2160, bestEval: -2160]
+
+[END Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 159, parentID: 153, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 159, parentID: 153]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 160, parentID: 159]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 161, parentID: 159, Eval: -2310, bestEval: -2310]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 161, parentID: 159]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 162, parentID: 159, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 162, parentID: 159]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 163, parentID: 159, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 163, parentID: 159]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 164, parentID: 159, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 164, parentID: 159]
+
+[END Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 165, parentID: 159, Eval: -2490, bestEval: -2190]
+
+[END Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 165, parentID: 153, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 4)  by BLACK at Depth 2, nodeID: 165, parentID: 153]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 166, parentID: 165]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 167, parentID: 165, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 167, parentID: 165]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 168, parentID: 165, Eval: -2400, bestEval: -2010]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 168, parentID: 165]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 169, parentID: 165, Eval: -2880, bestEval: -2010]
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 169, parentID: 165]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 170, parentID: 165, Eval: -2820, bestEval: -2010]
+
+[END Explore children of MOVE (5, 4)  by BLACK at Depth 2, nodeID: 170, parentID: 153, Eval: -2010, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 170, parentID: 153]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 171, parentID: 170]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 172, parentID: 170, Eval: -1950, bestEval: -1950]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 172, parentID: 170]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 173, parentID: 170, Eval: -2280, bestEval: -1950]
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 173, parentID: 170]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 174, parentID: 170, Eval: -2820, bestEval: -1950]
+
+[END Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 174, parentID: 153, Eval: -1950, bestEval: -2190]
+
+[START Explore children of MOVE (5, 6)  by BLACK at Depth 2, nodeID: 174, parentID: 153]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 175, parentID: 174]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 176, parentID: 174, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 176, parentID: 174]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 177, parentID: 174, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 177, parentID: 174]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 178, parentID: 174, Eval: -2250, bestEval: -2070]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 178, parentID: 174]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 179, parentID: 174, Eval: -2370, bestEval: -2070]
+
+[START Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 179, parentID: 174]
+
+[END Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 180, parentID: 174, Eval: -2190, bestEval: -2070]
+
+[END Explore children of MOVE (5, 6)  by BLACK at Depth 2, nodeID: 180, parentID: 153, Eval: -2070, bestEval: -2190]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 3, nodeID: 180, parentID: 101, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 3, nodeID: 181, parentID: 180]
+
+[START Explore children of MOVE (1, 2)  by BLACK at Depth 2, nodeID: 182, parentID: 181]
+
+[START Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 183, parentID: 182]
+
+[END Explore children of MOVE (1, 3)  by RED at Depth 1, nodeID: 184, parentID: 182, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 184, parentID: 182]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 185, parentID: 182, Eval: -2370, bestEval: -2190]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 185, parentID: 182]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 186, parentID: 182, Eval: -2280, bestEval: -2190]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 186, parentID: 182]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 187, parentID: 182, Eval: -2250, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 187, parentID: 182]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 188, parentID: 182, Eval: -2070, bestEval: -2070]
+
+[END Explore children of MOVE (1, 2)  by BLACK at Depth 2, nodeID: 188, parentID: 181, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 188, parentID: 181]
+
+[START Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 189, parentID: 188]
+
+[END Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 190, parentID: 188, Eval: -2820, bestEval: -2820]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 190, parentID: 188]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 191, parentID: 188, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 191, parentID: 188]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 192, parentID: 188, Eval: -1950, bestEval: -1950]
+
+[END Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 192, parentID: 181, Eval: -1950, bestEval: -2070]
+
+[START Explore children of MOVE (3, 2)  by BLACK at Depth 2, nodeID: 192, parentID: 181]
+
+[START Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 193, parentID: 192]
+
+[END Explore children of MOVE (2, 1)  by RED at Depth 1, nodeID: 194, parentID: 192, Eval: -2820, bestEval: -2820]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 194, parentID: 192]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 195, parentID: 192, Eval: -2400, bestEval: -2400]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 195, parentID: 192]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 196, parentID: 192, Eval: -2880, bestEval: -2400]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 196, parentID: 192]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 197, parentID: 192, Eval: -2010, bestEval: -2010]
+
+[END Explore children of MOVE (3, 2)  by BLACK at Depth 2, nodeID: 197, parentID: 181, Eval: -2010, bestEval: -2070]
+
+[START Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 197, parentID: 181]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 198, parentID: 197]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 199, parentID: 197, Eval: -2310, bestEval: -2310]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 199, parentID: 197]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 200, parentID: 197, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 200, parentID: 197]
+
+[END Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 201, parentID: 197, Eval: -2490, bestEval: -2190]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 201, parentID: 197]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 202, parentID: 197, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 202, parentID: 197]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 203, parentID: 197, Eval: -2280, bestEval: -2190]
+
+[END Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 203, parentID: 181, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 203, parentID: 181]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 204, parentID: 203]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 205, parentID: 203, Eval: -2490, bestEval: -2490]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 205, parentID: 203]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 206, parentID: 203, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 206, parentID: 203]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 207, parentID: 203, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 207, parentID: 203]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 208, parentID: 203, Eval: -2280, bestEval: -2160]
+
+[END Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 208, parentID: 181, Eval: -2160, bestEval: -2190]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 3, nodeID: 208, parentID: 180, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 3, nodeID: 208, parentID: 180]
+
+[START Explore children of MOVE (1, 5)  by BLACK at Depth 2, nodeID: 209, parentID: 208]
+
+[START Explore children of MOVE (1, 6)  by RED at Depth 1, nodeID: 210, parentID: 209]
+
+[END Explore children of MOVE (1, 6)  by RED at Depth 1, nodeID: 211, parentID: 209, Eval: -1830, bestEval: -1830]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 211, parentID: 209]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 212, parentID: 209, Eval: -2250, bestEval: -1830]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 212, parentID: 209]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 213, parentID: 209, Eval: -2250, bestEval: -1830]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 213, parentID: 209]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 214, parentID: 209, Eval: -2340, bestEval: -1830]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 214, parentID: 209]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 215, parentID: 209, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 215, parentID: 209]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 216, parentID: 209, Eval: -1740, bestEval: -1650]
+
+[END Explore children of MOVE (1, 5)  by BLACK at Depth 2, nodeID: 216, parentID: 208, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 216, parentID: 208]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 217, parentID: 216]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 218, parentID: 216, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 218, parentID: 216]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 219, parentID: 216, Eval: -2730, bestEval: -2730]
+
+[END Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 219, parentID: 208, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 219, parentID: 208]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 220, parentID: 219]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 221, parentID: 219, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 221, parentID: 219]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 222, parentID: 219, Eval: -2370, bestEval: -2280]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 222, parentID: 219]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 223, parentID: 219, Eval: -2370, bestEval: -2280]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 223, parentID: 219]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 224, parentID: 219, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 224, parentID: 219]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 225, parentID: 219, Eval: -2160, bestEval: -1980]
+
+[END Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 225, parentID: 208, Eval: -1980, bestEval: -2730]
+
+[START Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 225, parentID: 208]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 226, parentID: 225]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 227, parentID: 225, Eval: -2400, bestEval: -2400]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 227, parentID: 225]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 228, parentID: 225, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 228, parentID: 225]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 229, parentID: 225, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 229, parentID: 225]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 230, parentID: 225, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 230, parentID: 225]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 231, parentID: 225, Eval: -1920, bestEval: -1920]
+
+[END Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 231, parentID: 208, Eval: -1920, bestEval: -2730]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 3, nodeID: 231, parentID: 180, Eval: -2730, bestEval: -2190]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 3, nodeID: 231, parentID: 180]
+
+[START Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 232, parentID: 231]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 233, parentID: 232]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 234, parentID: 232, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 234, parentID: 232]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 235, parentID: 232, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 235, parentID: 232]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 236, parentID: 232, Eval: -2070, bestEval: -1920]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 236, parentID: 232]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 237, parentID: 232, Eval: -2370, bestEval: -1920]
+
+[START Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 237, parentID: 232]
+
+[END Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 238, parentID: 232, Eval: -2310, bestEval: -1920]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 238, parentID: 232]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 239, parentID: 232, Eval: -2160, bestEval: -1920]
+
+[END Explore children of MOVE (5, 2)  by BLACK at Depth 2, nodeID: 239, parentID: 231, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 239, parentID: 231]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 240, parentID: 239]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 241, parentID: 239, Eval: -2100, bestEval: -2100]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 241, parentID: 239]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 242, parentID: 239, Eval: -2430, bestEval: -2100]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 242, parentID: 239]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 243, parentID: 239, Eval: -2070, bestEval: -2070]
+
+[END Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 243, parentID: 231, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (5, 4)  by BLACK at Depth 2, nodeID: 243, parentID: 231]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 244, parentID: 243]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 245, parentID: 243, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 245, parentID: 243]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 246, parentID: 243, Eval: -2430, bestEval: -2370]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 246, parentID: 243]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 247, parentID: 243, Eval: -2970, bestEval: -2370]
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 247, parentID: 243]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 248, parentID: 243, Eval: -2910, bestEval: -2370]
+
+[END Explore children of MOVE (5, 4)  by BLACK at Depth 2, nodeID: 248, parentID: 231, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 248, parentID: 231]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 249, parentID: 248]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 250, parentID: 248, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 250, parentID: 248]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 251, parentID: 248, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 251, parentID: 248]
+
+[END Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 252, parentID: 248, Eval: -2070, bestEval: -2010]
+
+[END Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 252, parentID: 231, Eval: -2010, bestEval: -2370]
+
+[START Explore children of MOVE (5, 6)  by BLACK at Depth 2, nodeID: 252, parentID: 231]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 253, parentID: 252]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 254, parentID: 252, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 254, parentID: 252]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 255, parentID: 252, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 255, parentID: 252]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 256, parentID: 252, Eval: -2040, bestEval: -2040]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 256, parentID: 252]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 257, parentID: 252, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 257, parentID: 252]
+
+[END Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 258, parentID: 252, Eval: -2280, bestEval: -1890]
+
+[START Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 258, parentID: 252]
+
+[END Explore children of MOVE (4, 6)  by RED at Depth 1, nodeID: 259, parentID: 252, Eval: -2220, bestEval: -1890]
+
+[END Explore children of MOVE (5, 6)  by BLACK at Depth 2, nodeID: 259, parentID: 231, Eval: -1890, bestEval: -2370]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 3, nodeID: 259, parentID: 180, Eval: -2370, bestEval: -2190]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 3, nodeID: 260, parentID: 259]
+
+[START Explore children of MOVE (2, 1)  by BLACK at Depth 2, nodeID: 261, parentID: 260]
+
+[START Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 262, parentID: 261]
+
+[END Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 263, parentID: 261, Eval: -2220, bestEval: -2220]
+
+[START Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 263, parentID: 261]
+
+[END Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 264, parentID: 261, Eval: -2280, bestEval: -2220]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 264, parentID: 261]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 265, parentID: 261, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 265, parentID: 261]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 266, parentID: 261, Eval: -2040, bestEval: -1890]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 266, parentID: 261]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 267, parentID: 261, Eval: -2250, bestEval: -1890]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 267, parentID: 261]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 268, parentID: 261, Eval: -2250, bestEval: -1890]
+
+[END Explore children of MOVE (2, 1)  by BLACK at Depth 2, nodeID: 268, parentID: 260, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 268, parentID: 260]
+
+[START Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 269, parentID: 268]
+
+[END Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 270, parentID: 268, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 270, parentID: 268]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 271, parentID: 268, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 271, parentID: 268]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 272, parentID: 268, Eval: -2250, bestEval: -2010]
+
+[END Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 272, parentID: 260, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (2, 3)  by BLACK at Depth 2, nodeID: 272, parentID: 260]
+
+[START Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 273, parentID: 272]
+
+[END Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 274, parentID: 272, Eval: -2910, bestEval: -2910]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 274, parentID: 272]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 275, parentID: 272, Eval: -2970, bestEval: -2910]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 275, parentID: 272]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 276, parentID: 272, Eval: -2430, bestEval: -2430]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 276, parentID: 272]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 277, parentID: 272, Eval: -2370, bestEval: -2370]
+
+[END Explore children of MOVE (2, 3)  by BLACK at Depth 2, nodeID: 277, parentID: 260, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 277, parentID: 260]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 278, parentID: 277]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 279, parentID: 277, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 279, parentID: 277]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 280, parentID: 277, Eval: -2430, bestEval: -2070]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 280, parentID: 277]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 281, parentID: 277, Eval: -2100, bestEval: -2070]
+
+[END Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 281, parentID: 260, Eval: -2070, bestEval: -2370]
+
+[START Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 281, parentID: 260]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 282, parentID: 281]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 283, parentID: 281, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 283, parentID: 281]
+
+[END Explore children of MOVE (5, 1)  by RED at Depth 1, nodeID: 284, parentID: 281, Eval: -2310, bestEval: -2160]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 284, parentID: 281]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 285, parentID: 281, Eval: -2370, bestEval: -2160]
+
+[START Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 285, parentID: 281]
+
+[END Explore children of MOVE (5, 3)  by RED at Depth 1, nodeID: 286, parentID: 281, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 286, parentID: 281]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 287, parentID: 281, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 287, parentID: 281]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 288, parentID: 281, Eval: -2280, bestEval: -1920]
+
+[END Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 288, parentID: 260, Eval: -1920, bestEval: -2370]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 3, nodeID: 288, parentID: 259, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 3, nodeID: 288, parentID: 259]
+
+[START Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 289, parentID: 288]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 290, parentID: 289]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 291, parentID: 289, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 291, parentID: 289]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 292, parentID: 289, Eval: -1980, bestEval: -1920]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 292, parentID: 289]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 293, parentID: 289, Eval: -2370, bestEval: -1920]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 293, parentID: 289]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 294, parentID: 289, Eval: -2370, bestEval: -1920]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 294, parentID: 289]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 295, parentID: 289, Eval: -2400, bestEval: -1920]
+
+[END Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 295, parentID: 288, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 295, parentID: 288]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 296, parentID: 295]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 297, parentID: 295, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 297, parentID: 295]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 298, parentID: 295, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 298, parentID: 295]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 299, parentID: 295, Eval: -2370, bestEval: -1980]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 299, parentID: 295]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 300, parentID: 295, Eval: -2370, bestEval: -1980]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 300, parentID: 295]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 301, parentID: 295, Eval: -2280, bestEval: -1980]
+
+[END Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 301, parentID: 288, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 301, parentID: 288]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 302, parentID: 301]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 303, parentID: 301, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 303, parentID: 301]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 304, parentID: 301, Eval: -2730, bestEval: -2730]
+
+[END Explore children of MOVE (5, 3)  by BLACK at Depth 2, nodeID: 304, parentID: 288, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (6, 2)  by BLACK at Depth 2, nodeID: 304, parentID: 288]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 305, parentID: 304]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 306, parentID: 304, Eval: -1740, bestEval: -1740]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 306, parentID: 304]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 307, parentID: 304, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 307, parentID: 304]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 308, parentID: 304, Eval: -2340, bestEval: -1650]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 308, parentID: 304]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 309, parentID: 304, Eval: -2250, bestEval: -1650]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 309, parentID: 304]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 310, parentID: 304, Eval: -2250, bestEval: -1650]
+
+[START Explore children of MOVE (6, 1)  by RED at Depth 1, nodeID: 310, parentID: 304]
+
+[END Explore children of MOVE (6, 1)  by RED at Depth 1, nodeID: 311, parentID: 304, Eval: -1830, bestEval: -1650]
+
+[END Explore children of MOVE (6, 2)  by BLACK at Depth 2, nodeID: 311, parentID: 288, Eval: -1650, bestEval: -2730]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 3, nodeID: 311, parentID: 259, Eval: -2730, bestEval: -2370]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 3, nodeID: 311, parentID: 259]
+
+[START Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 312, parentID: 311]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 313, parentID: 312]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 314, parentID: 312, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 314, parentID: 312]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 315, parentID: 312, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 315, parentID: 312]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 316, parentID: 312, Eval: -2280, bestEval: -2160]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 316, parentID: 312]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 317, parentID: 312, Eval: -2490, bestEval: -2160]
+
+[END Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 317, parentID: 311, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 317, parentID: 311]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 318, parentID: 317]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 319, parentID: 317, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 319, parentID: 317]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 320, parentID: 317, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 320, parentID: 317]
+
+[END Explore children of MOVE (2, 6)  by RED at Depth 1, nodeID: 321, parentID: 317, Eval: -2490, bestEval: -2190]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 321, parentID: 317]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 322, parentID: 317, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 322, parentID: 317]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 323, parentID: 317, Eval: -2310, bestEval: -2190]
+
+[END Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 323, parentID: 311, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (4, 5)  by BLACK at Depth 2, nodeID: 323, parentID: 311]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 324, parentID: 323]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 325, parentID: 323, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 325, parentID: 323]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 326, parentID: 323, Eval: -2880, bestEval: -2010]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 326, parentID: 323]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 327, parentID: 323, Eval: -2400, bestEval: -2010]
+
+[START Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 327, parentID: 323]
+
+[END Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 328, parentID: 323, Eval: -2820, bestEval: -2010]
+
+[END Explore children of MOVE (4, 5)  by BLACK at Depth 2, nodeID: 328, parentID: 311, Eval: -2010, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 328, parentID: 311]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 329, parentID: 328]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 330, parentID: 328, Eval: -1950, bestEval: -1950]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 330, parentID: 328]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 331, parentID: 328, Eval: -2280, bestEval: -1950]
+
+[START Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 331, parentID: 328]
+
+[END Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 332, parentID: 328, Eval: -2820, bestEval: -1950]
+
+[END Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 332, parentID: 311, Eval: -1950, bestEval: -2190]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 332, parentID: 311]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 333, parentID: 332]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 334, parentID: 332, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 334, parentID: 332]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 335, parentID: 332, Eval: -2250, bestEval: -2070]
+
+[START Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 335, parentID: 332]
+
+[END Explore children of MOVE (4, 1)  by RED at Depth 1, nodeID: 336, parentID: 332, Eval: -2280, bestEval: -2070]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 336, parentID: 332]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 337, parentID: 332, Eval: -2370, bestEval: -2070]
+
+[START Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 337, parentID: 332]
+
+[END Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 338, parentID: 332, Eval: -2190, bestEval: -2070]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 338, parentID: 311, Eval: -2070, bestEval: -2190]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 3, nodeID: 338, parentID: 259, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 3, nodeID: 339, parentID: 338]
+
+[START Explore children of MOVE (2, 1)  by BLACK at Depth 2, nodeID: 340, parentID: 339]
+
+[START Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 341, parentID: 340]
+
+[END Explore children of MOVE (3, 1)  by RED at Depth 1, nodeID: 342, parentID: 340, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 342, parentID: 340]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 343, parentID: 340, Eval: -2370, bestEval: -2190]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 343, parentID: 340]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 344, parentID: 340, Eval: -2250, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 344, parentID: 340]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 345, parentID: 340, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 345, parentID: 340]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 346, parentID: 340, Eval: -2280, bestEval: -2070]
+
+[END Explore children of MOVE (2, 1)  by BLACK at Depth 2, nodeID: 346, parentID: 339, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 346, parentID: 339]
+
+[START Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 347, parentID: 346]
+
+[END Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 348, parentID: 346, Eval: -2820, bestEval: -2820]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 348, parentID: 346]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 349, parentID: 346, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 349, parentID: 346]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 350, parentID: 346, Eval: -1950, bestEval: -1950]
+
+[END Explore children of MOVE (2, 2)  by BLACK at Depth 2, nodeID: 350, parentID: 339, Eval: -1950, bestEval: -2070]
+
+[START Explore children of MOVE (2, 3)  by BLACK at Depth 2, nodeID: 350, parentID: 339]
+
+[START Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 351, parentID: 350]
+
+[END Explore children of MOVE (1, 2)  by RED at Depth 1, nodeID: 352, parentID: 350, Eval: -2820, bestEval: -2820]
+
+[START Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 352, parentID: 350]
+
+[END Explore children of MOVE (1, 4)  by RED at Depth 1, nodeID: 353, parentID: 350, Eval: -2880, bestEval: -2820]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 353, parentID: 350]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 354, parentID: 350, Eval: -2400, bestEval: -2400]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 354, parentID: 350]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 355, parentID: 350, Eval: -2010, bestEval: -2010]
+
+[END Explore children of MOVE (2, 3)  by BLACK at Depth 2, nodeID: 355, parentID: 339, Eval: -2010, bestEval: -2070]
+
+[START Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 355, parentID: 339]
+
+[START Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 356, parentID: 355]
+
+[END Explore children of MOVE (1, 5)  by RED at Depth 1, nodeID: 357, parentID: 355, Eval: -2490, bestEval: -2490]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 357, parentID: 355]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 358, parentID: 355, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 358, parentID: 355]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 359, parentID: 355, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 359, parentID: 355]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 360, parentID: 355, Eval: -2280, bestEval: -2190]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 360, parentID: 355]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 361, parentID: 355, Eval: -2310, bestEval: -2190]
+
+[END Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 361, parentID: 339, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 361, parentID: 339]
+
+[START Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 362, parentID: 361]
+
+[END Explore children of MOVE (3, 5)  by RED at Depth 1, nodeID: 363, parentID: 361, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 363, parentID: 361]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 364, parentID: 361, Eval: -2280, bestEval: -2160]
+
+[START Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 364, parentID: 361]
+
+[END Explore children of MOVE (5, 5)  by RED at Depth 1, nodeID: 365, parentID: 361, Eval: -2280, bestEval: -2160]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 365, parentID: 361]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 366, parentID: 361, Eval: -2490, bestEval: -2160]
+
+[END Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 366, parentID: 339, Eval: -2160, bestEval: -2190]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 3, nodeID: 366, parentID: 338, Eval: -2190, bestEval: -2190]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 3, nodeID: 366, parentID: 338]
+
+[START Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 367, parentID: 366]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 368, parentID: 367]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 369, parentID: 367, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 369, parentID: 367]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 370, parentID: 367, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 370, parentID: 367]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 371, parentID: 367, Eval: -2160, bestEval: -1980]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 371, parentID: 367]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 372, parentID: 367, Eval: -2370, bestEval: -1980]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 372, parentID: 367]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 373, parentID: 367, Eval: -2370, bestEval: -1980]
+
+[END Explore children of MOVE (2, 4)  by BLACK at Depth 2, nodeID: 373, parentID: 366, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 373, parentID: 366]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 374, parentID: 373]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 375, parentID: 373, Eval: -2400, bestEval: -2400]
+
+[START Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 375, parentID: 373]
+
+[END Explore children of MOVE (2, 5)  by RED at Depth 1, nodeID: 376, parentID: 373, Eval: -1980, bestEval: -1980]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 376, parentID: 373]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 377, parentID: 373, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 377, parentID: 373]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 378, parentID: 373, Eval: -2370, bestEval: -1920]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 378, parentID: 373]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 379, parentID: 373, Eval: -2370, bestEval: -1920]
+
+[END Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 379, parentID: 366, Eval: -1920, bestEval: -1980]
+
+[START Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 379, parentID: 366]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 380, parentID: 379]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 381, parentID: 379, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 381, parentID: 379]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 382, parentID: 379, Eval: -2730, bestEval: -2730]
+
+[END Explore children of MOVE (4, 2)  by BLACK at Depth 2, nodeID: 382, parentID: 366, Eval: -2730, bestEval: -2730]
+
+[START Explore children of MOVE (5, 1)  by BLACK at Depth 2, nodeID: 382, parentID: 366]
+
+[START Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 383, parentID: 382]
+
+[END Explore children of MOVE (2, 3)  by RED at Depth 1, nodeID: 384, parentID: 382, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 384, parentID: 382]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 385, parentID: 382, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 385, parentID: 382]
+
+[END Explore children of MOVE (4, 5)  by RED at Depth 1, nodeID: 386, parentID: 382, Eval: -1740, bestEval: -1740]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 386, parentID: 382]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 1, nodeID: 387, parentID: 382, Eval: -1650, bestEval: -1650]
+
+[START Explore children of MOVE (6, 1)  by RED at Depth 1, nodeID: 387, parentID: 382]
+
+[END Explore children of MOVE (6, 1)  by RED at Depth 1, nodeID: 388, parentID: 382, Eval: -1830, bestEval: -1650]
+
+[START Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 388, parentID: 382]
+
+[END Explore children of MOVE (6, 3)  by RED at Depth 1, nodeID: 389, parentID: 382, Eval: -2340, bestEval: -1650]
+
+[END Explore children of MOVE (5, 1)  by BLACK at Depth 2, nodeID: 389, parentID: 366, Eval: -1650, bestEval: -2730]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 3, nodeID: 389, parentID: 338, Eval: -2730, bestEval: -2190]
+
+[START Explore children of MOVE (5, 4)  by RED at Depth 3, nodeID: 389, parentID: 338]
+
+[START Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 390, parentID: 389]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 391, parentID: 390]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 392, parentID: 390, Eval: -2280, bestEval: -2280]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 392, parentID: 390]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 393, parentID: 390, Eval: -2160, bestEval: -2160]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 393, parentID: 390]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 394, parentID: 390, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 394, parentID: 390]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 395, parentID: 390, Eval: -2070, bestEval: -1920]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 395, parentID: 390]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 396, parentID: 390, Eval: -2370, bestEval: -1920]
+
+[START Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 396, parentID: 390]
+
+[END Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 397, parentID: 390, Eval: -2310, bestEval: -1920]
+
+[END Explore children of MOVE (2, 5)  by BLACK at Depth 2, nodeID: 397, parentID: 389, Eval: -1920, bestEval: -1920]
+
+[START Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 397, parentID: 389]
+
+[START Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 398, parentID: 397]
+
+[END Explore children of MOVE (2, 4)  by RED at Depth 1, nodeID: 399, parentID: 397, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 399, parentID: 397]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 400, parentID: 397, Eval: -2100, bestEval: -2070]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 400, parentID: 397]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 401, parentID: 397, Eval: -2430, bestEval: -2070]
+
+[END Explore children of MOVE (3, 5)  by BLACK at Depth 2, nodeID: 401, parentID: 389, Eval: -2070, bestEval: -2070]
+
+[START Explore children of MOVE (4, 5)  by BLACK at Depth 2, nodeID: 401, parentID: 389]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 402, parentID: 401]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 403, parentID: 401, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 403, parentID: 401]
+
+[END Explore children of MOVE (3, 6)  by RED at Depth 1, nodeID: 404, parentID: 401, Eval: -2970, bestEval: -2370]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 404, parentID: 401]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 405, parentID: 401, Eval: -2430, bestEval: -2370]
+
+[START Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 405, parentID: 401]
+
+[END Explore children of MOVE (5, 6)  by RED at Depth 1, nodeID: 406, parentID: 401, Eval: -2910, bestEval: -2370]
+
+[END Explore children of MOVE (4, 5)  by BLACK at Depth 2, nodeID: 406, parentID: 389, Eval: -2370, bestEval: -2370]
+
+[START Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 406, parentID: 389]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 407, parentID: 406]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 408, parentID: 406, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 408, parentID: 406]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 409, parentID: 406, Eval: -2010, bestEval: -2010]
+
+[START Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 409, parentID: 406]
+
+[END Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 410, parentID: 406, Eval: -2070, bestEval: -2010]
+
+[END Explore children of MOVE (5, 5)  by BLACK at Depth 2, nodeID: 410, parentID: 389, Eval: -2010, bestEval: -2370]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 410, parentID: 389]
+
+[START Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 411, parentID: 410]
+
+[END Explore children of MOVE (2, 2)  by RED at Depth 1, nodeID: 412, parentID: 410, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 412, parentID: 410]
+
+[END Explore children of MOVE (3, 2)  by RED at Depth 1, nodeID: 413, parentID: 410, Eval: -2250, bestEval: -2250]
+
+[START Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 413, parentID: 410]
+
+[END Explore children of MOVE (4, 2)  by RED at Depth 1, nodeID: 414, parentID: 410, Eval: -2040, bestEval: -2040]
+
+[START Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 414, parentID: 410]
+
+[END Explore children of MOVE (5, 2)  by RED at Depth 1, nodeID: 415, parentID: 410, Eval: -1890, bestEval: -1890]
+
+[START Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 415, parentID: 410]
+
+[END Explore children of MOVE (6, 2)  by RED at Depth 1, nodeID: 416, parentID: 410, Eval: -2280, bestEval: -1890]
+
+[START Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 416, parentID: 410]
+
+[END Explore children of MOVE (6, 4)  by RED at Depth 1, nodeID: 417, parentID: 410, Eval: -2220, bestEval: -1890]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 417, parentID: 389, Eval: -1890, bestEval: -2370]
+
+[END Explore children of MOVE (5, 4)  by RED at Depth 3, nodeID: 417, parentID: 338, Eval: -2370, bestEval: -2190]
+

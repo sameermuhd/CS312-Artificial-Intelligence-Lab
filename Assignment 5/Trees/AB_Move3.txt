@@ -1,0 +1,122 @@
+[START] Root ID: 29710
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 3, nodeID: 29711, parentID: 29710]
+
+[START Explore children of MOVE (7, 4)  by BLACK at Depth 2, nodeID: 29712, parentID: 29711]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29713, parentID: 29712]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29714, parentID: 29712, Eval: -669340, bestEval: -669340]
+
+[END Explore children of MOVE (7, 4)  by BLACK at Depth 2, nodeID: 29714, parentID: 29711, Eval: -669340, bestEval: -669340]
+
+[START Explore children of MOVE (7, 7)  by BLACK at Depth 2, nodeID: 29714, parentID: 29711]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29715, parentID: 29714]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29716, parentID: 29714, Eval: -499160, bestEval: -499160]
+
+[END Explore children of MOVE (7, 7)  by BLACK at Depth 2, nodeID: 29716, parentID: 29711, Eval: -499160, bestEval: -669340]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 3, nodeID: 29716, parentID: 29710, Eval: -669340, bestEval: -669340]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 3, nodeID: 29716, parentID: 29710]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29717, parentID: 29716]
+
+[START Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29718, parentID: 29717]
+
+[END Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29719, parentID: 29717, Eval: -669700, bestEval: -669700]
+
+[START Explore children of MOVE (7, 7)  by RED at Depth 1, nodeID: 29719, parentID: 29717]
+
+[END Explore children of MOVE (7, 7)  by RED at Depth 1, nodeID: 29720, parentID: 29717, Eval: -748800, bestEval: -669700]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29720, parentID: 29716, Eval: -669700, bestEval: -669700]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 3, nodeID: 29720, parentID: 29710, Eval: -669700, bestEval: -669340]
+
+[START Explore children of MOVE (7, 4)  by RED at Depth 3, nodeID: 29720, parentID: 29710]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29721, parentID: 29720]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29722, parentID: 29721]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29723, parentID: 29721, Eval: -669160, bestEval: -669160]
+
+[START Explore children of MOVE (7, 7)  by RED at Depth 1, nodeID: 29723, parentID: 29721]
+
+[END Explore children of MOVE (7, 7)  by RED at Depth 1, nodeID: 29724, parentID: 29721, Eval: -748380, bestEval: -669160]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29724, parentID: 29720, Eval: -669160, bestEval: -669160]
+
+[END Explore children of MOVE (7, 4)  by RED at Depth 3, nodeID: 29724, parentID: 29710, Eval: -669160, bestEval: -669160]
+
+[START Explore children of MOVE (7, 7)  by RED at Depth 3, nodeID: 29724, parentID: 29710]
+
+[END Explore children of MOVE (7, 7)  by RED at Depth 3, nodeID: 29725, parentID: 29710, Eval: 2147483646, bestEval: 2147483646]
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 3, nodeID: 29726, parentID: 29725]
+
+[START Explore children of MOVE (7, 6)  by BLACK at Depth 2, nodeID: 29727, parentID: 29726]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29728, parentID: 29727]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29729, parentID: 29727, Eval: -498980, bestEval: -498980]
+
+[START Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29729, parentID: 29727]
+
+[END Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29730, parentID: 29727, Eval: -498380, bestEval: -498380]
+
+[END Explore children of MOVE (7, 6)  by BLACK at Depth 2, nodeID: 29730, parentID: 29726, Eval: -498380, bestEval: -498380]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 3, nodeID: 29730, parentID: 29725, Eval: -498380, bestEval: -498380]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 3, nodeID: 29730, parentID: 29725]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29731, parentID: 29730]
+
+[START Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29732, parentID: 29731]
+
+[END Explore children of MOVE (7, 4)  by RED at Depth 1, nodeID: 29733, parentID: 29731, Eval: -499700, bestEval: -499700]
+
+[START Explore children of MOVE (7, 6)  by RED at Depth 1, nodeID: 29733, parentID: 29731]
+
+[END Explore children of MOVE (7, 6)  by RED at Depth 1, nodeID: 29734, parentID: 29731, Eval: -500300, bestEval: -499700]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29734, parentID: 29730, Eval: -499700, bestEval: -499700]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 3, nodeID: 29734, parentID: 29725, Eval: -499700, bestEval: -498380]
+
+[START Explore children of MOVE (7, 4)  by RED at Depth 3, nodeID: 29734, parentID: 29725]
+
+[START Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29735, parentID: 29734]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29736, parentID: 29735]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29737, parentID: 29735, Eval: -499160, bestEval: -499160]
+
+[START Explore children of MOVE (7, 6)  by RED at Depth 1, nodeID: 29737, parentID: 29735]
+
+[END Explore children of MOVE (7, 6)  by RED at Depth 1, nodeID: 29738, parentID: 29735, Eval: -499520, bestEval: -499160]
+
+[END Explore children of MOVE (6, 5)  by BLACK at Depth 2, nodeID: 29738, parentID: 29734, Eval: -499160, bestEval: -499160]
+
+[END Explore children of MOVE (7, 4)  by RED at Depth 3, nodeID: 29738, parentID: 29725, Eval: -499160, bestEval: -498380]
+
+[START Explore children of MOVE (7, 6)  by RED at Depth 3, nodeID: 29738, parentID: 29725]
+
+[START Explore children of MOVE (7, 4)  by BLACK at Depth 2, nodeID: 29739, parentID: 29738]
+
+[START Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 29740, parentID: 29739]
+
+[END Explore children of MOVE (6, 5)  by RED at Depth 1, nodeID: 29741, parentID: 29739, Eval: -498980, bestEval: -498980]
+
+[START Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29741, parentID: 29739]
+
+[END Explore children of MOVE (7, 2)  by RED at Depth 1, nodeID: 29742, parentID: 29739, Eval: -499520, bestEval: -498980]
+
+[END Explore children of MOVE (7, 4)  by BLACK at Depth 2, nodeID: 29742, parentID: 29738, Eval: -498980, bestEval: -498980]
+
+[END Explore children of MOVE (7, 6)  by RED at Depth 3, nodeID: 29742, parentID: 29725, Eval: -498980, bestEval: -498380]
+
